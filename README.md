@@ -1,0 +1,2 @@
+# LINTERS
+Microverse linters project
